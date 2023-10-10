@@ -1,0 +1,14 @@
+/*Simple Style*/
+QPushButton {
+	min-width: 128px;
+}
+
+QPushButton {
+	border-image: url(D:/Qt_Projects/MyStyleApp_ex2/bmp-icon2.png) 128px;
+	border-width: 5px;
+}
+
+QPushButton:pressed {
+	border-image: url(D:/Qt_Projects/MyStyleApp_ex2/bmp-icon.png) 128px;
+	border-width: 5px;
+}
