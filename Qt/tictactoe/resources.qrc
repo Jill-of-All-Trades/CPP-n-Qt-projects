@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../MyStyleApp_ex2/bmp-icon2.png</file>
+    </qresource>
+</RCC>
