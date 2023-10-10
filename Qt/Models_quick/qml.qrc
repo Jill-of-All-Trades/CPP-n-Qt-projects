@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CDs.js</file>
+        <file>../MyStyleApp_ex2/bmp-icon2.png</file>
+        <file>../MyStyleApp_ex2/bmp-icon.png</file>
+        <file>img_1.jfif</file>
+        <file>img_2.jfif</file>
+        <file>img_3.jfif</file>
+        <file>qCDs.qml</file>
+    </qresource>
+</RCC>
